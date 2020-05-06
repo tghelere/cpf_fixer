@@ -1,0 +1,23 @@
+{
+  "name": "cpf_fixer",
+  "version": "1.0.0",
+  "description": "A fixer for wrong list of CPFs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tghelere/cpf_fixer.git"
+  },
+  "keywords": [
+    "cpf",
+    "fix"
+  ],
+  "author": "tghelere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tghelere/cpf_fixer/issues"
+  },
+  "homepage": "https://github.com/tghelere/cpf_fixer#readme"
+}
